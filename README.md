@@ -6,8 +6,11 @@ What to Expect
   In Simple-Hub, each project represents a part of my learning journey and reflects my ongoing efforts to:
 
 1)Build practical experience by applying new skills in real-world scenarios.
+
 2)Experiment with different technologies to broaden my development toolkit.
+
 3)Discover innovative solutions through coding challenges and diverse project requirements.
+
 4)Document and share my progress as I continue to learn and grow in the software development world.
 
 
@@ -16,7 +19,9 @@ What to Expect
 You'll find projects here that utilize:
 
 1)Languages like Python, JavaScript, and more.
+
 2)Frameworks and Libraries such as ReactJS, Django, and others.
+
 3)Technologies and Tools for data analysis, machine learning, web development, and beyond.
 
 
